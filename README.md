@@ -13,7 +13,7 @@
 
 ### Competitions
 **Global**
-- WiDS Datathon 2024 Challenge #1 - **8th / 670 (Top 1\%)** ([Kaggle](https://www.kaggle.com/competitions/widsdatathon2024-challenge1/discussion/481131)) [Mar 2024]
+- NeurIPS 2023 - Machine Unlearning #1 - **164th / 1336 (Top 14\%)**  https://www.kaggle.com/competitions/neurips-2023-machine-unlearning [Mar 2024]
 - Linking Writing Processes to Writing Quality - **23rd / 2256 (Top 1\%)** ([Kaggle](https://www.kaggle.com/competitions/linking-writing-processes-to-writing-quality/discussion/466771)) ([Github](https://github.com/nlztrk/Linking-Writing-Processes-to-Writing-Quality/)) [Jan 2024]
 - Kaggle - LLM Science Exam - **17th / 2664 (Top 1\%)** ([Kaggle](https://www.kaggle.com/competitions/kaggle-llm-science-exam/discussion/446242)) [Oct 2023]
 - Image Matching Challenge 2023 - **39th / 494 (Top 8\%)** ([Kaggle](https://www.kaggle.com/competitions/image-matching-challenge-2023/discussion/416847)) ([Github](https://github.com/gunesevitan/image-matching-challenge-2023)) [Jun 2023]
