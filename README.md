@@ -13,7 +13,7 @@
 
 ### Competitions
 **Global**
-- Learning Agency Lab - Automated Essay Scoring 2.0 #1 - **1212th / 2706 (Top 45\%)**  ([Kaggle](https://www.kaggle.com/competitions/learning-agency-lab-automated-essay-scoring-2))  [APR 2024]
+- Learning Agency Lab - Automated Essay Scoring 2.0 #1 - **1212th / 2706 (Top 45\%)** ([Experiments](https://wandb.ai/jaytonde05/AES/reports/Learning-Agency-Lab-Automated-Essay-Scoring-2-0--Vmlldzo4OTEyNDg5)) ([Kaggle](https://www.kaggle.com/competitions/learning-agency-lab-automated-essay-scoring-2))  [APR 2024]
 - HMS - Harmful Brain Activity Classification #1 - **1231th / 1206 (Top 45\%)**  ([Kaggle](https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification))  [JAN 2024]
 - UBC Ovarian Cancer Subtype Classification and Outlier Detection (UBC-OCEAN) #1 - **1118th / 1326 (Top 85\%)**  ([Kaggle](https://www.kaggle.com/competitions/UBC-OCEAN))  [OCT 2023]
 - NeurIPS 2024 - Predict New Medicines with BELKA #1 - **231th / 1336 (Top 12\%)**  ([Kaggle](https://www.kaggle.com/competitions/leash-BELKA))  [APR 2024]
