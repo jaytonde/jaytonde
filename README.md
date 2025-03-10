@@ -22,7 +22,7 @@
 
 ### Achivements
 - Standing Ovation Award - January 2025 by Wolters Kluwer
-- Code Games 2023 Winner - First runner up
+- Wolters Kluwer - Code Games 2023 Winner - First runner up  
   
 ### My Blogs
 - Optimizing PyTorch Model Training: Balancing Speed and Memory Efficiency  ([Link](https://jaydevtonde.substack.com/p/optimizing-pytorch-model-training))
