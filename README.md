@@ -19,6 +19,10 @@
 - UBC Ovarian Cancer Subtype Classification and Outlier Detection (UBC-OCEAN) #1 - **1118th / 1326 (Top 85\%)**  ([Kaggle](https://www.kaggle.com/competitions/UBC-OCEAN))  [OCT 2023]
 - NeurIPS 2024 - Predict New Medicines with BELKA #1 - **231th / 1336 (Top 12\%)**  ([Kaggle](https://www.kaggle.com/competitions/leash-BELKA))  [APR 2024]
 - NeurIPS 2023 - Machine Unlearning #1 - **164th / 1336 (Top 14\%)**  ([Kaggle](https://www.kaggle.com/competitions/neurips-2023-machine-unlearning))  [SEP 2023]
+
+### Achivements
+- Standing Ovation Award - January 2025 by Wolters Kluwer
+- Code Games 2023 Winner - First runner up
   
 ### My Blogs
 - Optimizing PyTorch Model Training: Balancing Speed and Memory Efficiency  ([Link](https://jaydevtonde.substack.com/p/optimizing-pytorch-model-training))
