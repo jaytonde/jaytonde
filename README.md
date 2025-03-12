@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Jaydev! 👋</h1>
-<h3 align="center">Data Scientist, MSc in Computer Science</h3>
+<h3 align="center">Data Scientist II, MSc in Computer Science</h3>
 
 <p align="center">Currently working on <b>Machine Learning</b>, <b>Deep Learning</b> and <b>Data science</b>.</p>
 
