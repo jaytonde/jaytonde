@@ -13,7 +13,7 @@
 
 ### Competitions
 **Global**
-- CIBMTR - Equity in post-HCT Survival Predictions - **22th / 3,325 (Top 1\%)** ([Experiments](https://wandb.ai/jaytonde05/AES/reports/Learning-Agency-Lab-Automated-Essay-Scoring-2-0--Vmlldzo4OTEyNDg5)) ([Kaggle](https://www.kaggle.com/competitions/equity-post-HCT-survival-predictions))
+- CIBMTR - Equity in post-HCT Survival Predictions - **22th / 3,325 (Top 1\%)** **Silver Medal** ([Experiments](https://wandb.ai/jaytonde05/AES/reports/Learning-Agency-Lab-Automated-Essay-Scoring-2-0--Vmlldzo4OTEyNDg5)) ([Kaggle](https://www.kaggle.com/competitions/equity-post-HCT-survival-predictions)) [MAR 2024]
 - Learning Agency Lab - Automated Essay Scoring 2.0 - **1212th / 2706 (Top 45\%)** ([Experiments](https://wandb.ai/jaytonde05/AES/reports/Learning-Agency-Lab-Automated-Essay-Scoring-2-0--Vmlldzo4OTEyNDg5)) ([Kaggle](https://www.kaggle.com/competitions/learning-agency-lab-automated-essay-scoring-2))  [APR 2024]
 - HMS - Harmful Brain Activity Classification - **1231th / 1206 (Top 45\%)**  ([Kaggle](https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification))  [JAN 2024]
 - UBC Ovarian Cancer Subtype Classification and Outlier Detection (UBC-OCEAN) - **1118th / 1326 (Top 85\%)**  ([Kaggle](https://www.kaggle.com/competitions/UBC-OCEAN))  [OCT 2023]
