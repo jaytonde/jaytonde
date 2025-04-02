@@ -24,6 +24,7 @@
 - Standing Ovation Award - January 2025 by Wolters Kluwer
 - Wolters Kluwer - Code Games 2023 Winner - First runner up  
   
-### My Blogs
+### My Blogs ([Home](https://substack.com/@jaydevtonde))
+- Understanding Model Memory Calculations  ([Link](https://jaydevtonde.substack.com/p/understanding-model-memory-calculations))
 - Optimizing PyTorch Model Training: Balancing Speed and Memory Efficiency  ([Link](https://jaydevtonde.substack.com/p/optimizing-pytorch-model-training))
 
