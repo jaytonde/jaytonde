@@ -27,4 +27,6 @@
 ### My Blogs ([Home](https://substack.com/@jaydevtonde))
 - Understanding Model Memory Calculations  ([Link](https://jaydevtonde.substack.com/p/understanding-model-memory-calculations))
 - Optimizing PyTorch Model Training: Balancing Speed and Memory Efficiency  ([Link](https://jaydevtonde.substack.com/p/optimizing-pytorch-model-training))
+- RhoFold+: A Revolutionary Framework for RNA 3D Structure Prediction  ([Link](https://jaydevtonde.substack.com/p/rhofold-a-revolutionary-framework))
+- AI Agent Frameworks Quick View  ([Link](https://jaydevtonde.substack.com/p/ai-agents-frameworks?r=1tjy7m))
 
