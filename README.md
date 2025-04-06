@@ -31,7 +31,7 @@
 - AI Agent Frameworks Quick View  ([Link](https://jaydevtonde.substack.com/p/ai-agents-frameworks?r=1tjy7m))
 
 ### Major developements
-- Developed VLM from scratch in Pytorch  ([Link](https://jaydevtonde.substack.com/p/understanding-model-memory-calculations))
-- Experiementation pipeline for image classification. Used to performe 50+ experiments in kaggle competiton named  ([Link](https://jaydevtonde.substack.com/p/optimizing-pytorch-model-training))
-- Experiementation pipeline for text classification. Used to performe 50+ experiments in kaggle competiton named   ([Link](https://jaydevtonde.substack.com/p/rhofold-a-revolutionary-framework))
+- Experiementation pipeline for image classification. Used to performe 50+ experiments in kaggle competiton named ISIC ([Link](https://github.com/jaytonde/Kaggle-ISIC-2024))
+- Experiementation pipeline for text classification. Used to performe 50+ experiments in kaggle competiton named Automated Essay Scoring  ([Link](https://github.com/jaytonde/Kaggle-AES-2024))
+- Developed VLM from scratch in Pytorch  ([Link](https://github.com/jaytonde/vlm-from-scratch))
 
