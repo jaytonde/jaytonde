@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Jaydev! 👋</h1>
-<h3 align="center">Data Scientist II at Wolters Kluwer, Author at Neural Notes, MSc in Computer Science</h3>
+<h3 align="center">Data Scientist II at Wolters Kluwer, Author at NeuroBits, MSc in Computer Science</h3>
 
 <p align="center">Currently spending most of the time on Deep learning. Specifically Transformer's models(Encoders, LLM's) training.</p>
 
@@ -24,7 +24,7 @@
 - Standing Ovation Award - January 2025 by Wolters Kluwer
 - Wolters Kluwer - Code Games 2023 Winner - First runner up  
   
-### My Blogs ([Home](https://substack.com/@jaydevtonde))
+### My Blogs ([NeuroBits](https://substack.com/@jaydevtonde))
 - Understanding Model Memory Calculations  ([Link](https://jaydevtonde.substack.com/p/understanding-model-memory-calculations))
 - Optimizing PyTorch Model Training: Balancing Speed and Memory Efficiency  ([Link](https://jaydevtonde.substack.com/p/optimizing-pytorch-model-training))
 - LLM Reasoning the Emergent Capability  ([Link](https://jaydevtonde.substack.com/p/llm-reasoning-the-emergent-capability?r=1tjy7m))
