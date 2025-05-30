@@ -27,7 +27,6 @@
 ### My Blogs ([NeuroBits](https://substack.com/@jaydevtonde))
 - Understanding Model Memory Calculations  ([Link](https://jaydevtonde.substack.com/p/understanding-model-memory-calculations))
 - Optimizing PyTorch Model Training: Balancing Speed and Memory Efficiency  ([Link](https://jaydevtonde.substack.com/p/optimizing-pytorch-model-training))
-- LLM Reasoning the Emergent Capability  ([Link](https://jaydevtonde.substack.com/p/llm-reasoning-the-emergent-capability?r=1tjy7m))
 - AI Agent Frameworks Quick View  ([Link](https://jaydevtonde.substack.com/p/ai-agents-frameworks?r=1tjy7m))
 - RhoFold+: A Revolutionary Framework for RNA 3D Structure Prediction  ([Link](https://jaydevtonde.substack.com/p/rhofold-a-revolutionary-framework))
 
