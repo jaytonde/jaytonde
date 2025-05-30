@@ -31,6 +31,10 @@
 - AI Agent Frameworks Quick View  ([Link](https://jaydevtonde.substack.com/p/ai-agents-frameworks?r=1tjy7m))
 - RhoFold+: A Revolutionary Framework for RNA 3D Structure Prediction  ([Link](https://jaydevtonde.substack.com/p/rhofold-a-revolutionary-framework))
 
+#### LLM Reasoning 
+- LLM Reasoning the Emergent Capability ([Link](https://jaydevtonde.substack.com/p/llm-reasoning-the-emergent-capability)).
+- GRPO(Group Relative Policy Optimization) ([Link](https://jaydevtonde.substack.com/p/grpogroup-relative-policy-optimization)).
+  
 ### Major developements
 - Experiementation pipeline for image classification. Used to performe 50+ experiments in kaggle competiton named ISIC ([Link](https://github.com/jaytonde/Kaggle-ISIC-2024))
 - Experiementation pipeline for text classification. Used to performe 50+ experiments in kaggle competiton named Automated Essay Scoring  ([Link](https://github.com/jaytonde/Kaggle-AES-2024))
