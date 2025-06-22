@@ -26,13 +26,17 @@
   
 ### My Blogs ([NeuroBits](https://substack.com/@jaydevtonde))
 - Understanding Model Memory Calculations  ([Link](https://jaydevtonde.substack.com/p/understanding-model-memory-calculations))
+- RNA Transformer : Encoder modeling RNA Sequnces to predict 3D Structure ([Link](https://jaydevtonde.substack.com/p/rna-transformer)
 - Optimizing PyTorch Model Training: Balancing Speed and Memory Efficiency  ([Link](https://jaydevtonde.substack.com/p/optimizing-pytorch-model-training))
-- AI Agent Frameworks Quick View  ([Link](https://jaydevtonde.substack.com/p/ai-agents-frameworks?r=1tjy7m))
 - RhoFold+: A Revolutionary Framework for RNA 3D Structure Prediction  ([Link](https://jaydevtonde.substack.com/p/rhofold-a-revolutionary-framework))
 
 #### LLM Reasoning 
 - LLM Reasoning the Emergent Capability ([Link](https://jaydevtonde.substack.com/p/llm-reasoning-the-emergent-capability)).
 - GRPO(Group Relative Policy Optimization) ([Link](https://jaydevtonde.substack.com/p/grpogroup-relative-policy-optimization)).
+
+### AI Agents
+- AI Agent Frameworks Quick View  ([Link](https://jaydevtonde.substack.com/p/ai-agents-frameworks?r=1tjy7m))
+- SHADE Arena : Evaluating Sabotage and Monitoring in AI Agnets. ([Link](https://jaydevtonde.substack.com/p/shade-arena-evaluating-disruption)).
   
 ### Major developements
 - Experiementation pipeline for image classification. Used to performe 50+ experiments in kaggle competiton named ISIC ([Link](https://github.com/jaytonde/Kaggle-ISIC-2024))
