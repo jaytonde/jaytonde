@@ -34,7 +34,7 @@
 - LLM Reasoning the Emergent Capability ([Link](https://jaydevtonde.substack.com/p/llm-reasoning-the-emergent-capability)).
 - GRPO(Group Relative Policy Optimization) ([Link](https://jaydevtonde.substack.com/p/grpogroup-relative-policy-optimization)).
 
-### AI Agents
+#### AI Agents
 - AI Agent Frameworks Quick View  ([Link](https://jaydevtonde.substack.com/p/ai-agents-frameworks?r=1tjy7m))
 - SHADE Arena : Evaluating Sabotage and Monitoring in AI Agnets. ([Link](https://jaydevtonde.substack.com/p/shade-arena-evaluating-disruption)).
   
