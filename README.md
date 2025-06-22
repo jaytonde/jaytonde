@@ -26,7 +26,7 @@
   
 ### My Blogs ([NeuroBits](https://substack.com/@jaydevtonde))
 - Understanding Model Memory Calculations  ([Link](https://jaydevtonde.substack.com/p/understanding-model-memory-calculations))
-- RNA Transformer : Encoder modeling RNA Sequnces to predict 3D Structure ([Link](https://jaydevtonde.substack.com/p/rna-transformer)
+- RNA Transformer : Encoder modeling RNA Sequnces to predict 3D Structure ([Link](https://jaydevtonde.substack.com/p/rna-transformer))
 - Optimizing PyTorch Model Training: Balancing Speed and Memory Efficiency  ([Link](https://jaydevtonde.substack.com/p/optimizing-pytorch-model-training))
 - RhoFold+: A Revolutionary Framework for RNA 3D Structure Prediction  ([Link](https://jaydevtonde.substack.com/p/rhofold-a-revolutionary-framework))
 
