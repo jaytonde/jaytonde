@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Jaydev! 👋</h1>
-<h3 align="center">Data Scientist II at Wolters Kluwer, Author at NeuroBits, MSc in Computer Science</h3>
+<h3 align="center">Data Scientist II at Wolters Kluwer, Kaggle Competitions Expert, Author at NeuroBits, MSc in Computer Science</h3>
 
-<p align="center">Currently spending most of the time on Deep learning. Specifically Transformer's models(Encoders, LLM's) training.</p>
+<p align="center">Currently spending most of the time in Deep learning. Specifically Transformer's models(Encoders, LLM's) training and understanding different architectures.</p>
 
 <p align="center">
 <a href="https://github.com/jaytonde"></a>
@@ -13,7 +13,8 @@
 
 ### Competitions
 **Global**
-- CIBMTR - Equity in post-HCT Survival Predictions - **22th / 3,325 (Top 1\%)** **(Silver Medal)** ([Experiments](https://wandb.ai/jaytonde05/AES/reports/Learning-Agency-Lab-Automated-Essay-Scoring-2-0--Vmlldzo4OTEyNDg5)) ([Kaggle](https://www.kaggle.com/competitions/equity-post-HCT-survival-predictions)) [MAR 2024]
+- CIBMTR - Equity in post-HCT Survival Predictions - **22th / 3,325 (Top 1\%)** **(Silver Medal)** ([Experiments](https://wandb.ai/jaytonde05/AES/reports/Learning-Agency-Lab-Automated-Essay-Scoring-2-0--Vmlldzo4OTEyNDg5)) ([Kaggle](https://www.kaggle.com/competitions/equity-post-HCT-survival-predictions)) [MAR 2025]
+- Stanford RNA 3D Folding - **77th / 1516 (Top 6\%)** **(Bronze Medal)** ([Kaggle](https://www.kaggle.com/competitions/stanford-rna-3d-folding)) [SEPT 2025]
 - Learning Agency Lab - Automated Essay Scoring 2.0 - **1212th / 2706 (Top 45\%)** ([Experiments](https://wandb.ai/jaytonde05/AES/reports/Learning-Agency-Lab-Automated-Essay-Scoring-2-0--Vmlldzo4OTEyNDg5)) ([Kaggle](https://www.kaggle.com/competitions/learning-agency-lab-automated-essay-scoring-2))  [APR 2024]
 - HMS - Harmful Brain Activity Classification - **1231th / 1206 (Top 45\%)**  ([Kaggle](https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification))  [JAN 2024]
 - UBC Ovarian Cancer Subtype Classification and Outlier Detection (UBC-OCEAN) - **1118th / 1326 (Top 85\%)**  ([Kaggle](https://www.kaggle.com/competitions/UBC-OCEAN))  [OCT 2023]
