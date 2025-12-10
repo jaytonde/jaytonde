@@ -23,7 +23,11 @@
 
 ### Achivements
 - Standing Ovation Award - January 2025 by Wolters Kluwer
-- Wolters Kluwer - Code Games 2023 Winner - First runner up  
+- Wolters Kluwer - Code Games 2023 Winner - First runner up
+
+### Blogs
+- Quantization Aware Training and Post training quantization using unsloth ang torchAO : ([Link](https://www.e2enetworks.com/blog/train-4bit-llms-qat-unsloth))
+
   
 ### My Blogs ([NeuroBits](https://substack.com/@jaydevtonde))
 - Understanding Model Memory Calculations  ([Link](https://jaydevtonde.substack.com/p/understanding-model-memory-calculations))
