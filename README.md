@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Jaydev! 👋</h1>
-<h3 align="center"> Senior Data Scientist at Wolters Kluwer, Kaggle Competitions Expert, Author at <a href="https://www.e2enetworks.com/blog">E2E Networks</a>, MSc in Computer Science</h3>
+<h3 align="center"> Senior Data Scientist at Wolters Kluwer, Kaggle Competitions Expert, Author at <a href="https://docs.jarvislabs.ai/blog">JarvisLabs</a>, MSc in Computer Science</h3>
 
 <p align="center">Currently spending most of the time in Deep learning. Specifically Transformer's models(Encoders, LLM's) training and understanding different architectures.</p>
 
