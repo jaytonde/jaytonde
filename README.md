@@ -27,6 +27,9 @@
 
 ### Blogs
 - Quantization Aware Training and Post training quantization using unsloth ang torchAO : ([Link](https://www.e2enetworks.com/blog/train-4bit-llms-qat-unsloth))
+- Speculative Decoding in vLLM: Complete Guide to Faster LLM Inference : ([Link](https://docs.jarvislabs.ai/blog/speculative-decoding-vllm-faster-llm-inference))
+- https://docs.jarvislabs.ai/blog/vllm-quantization-complete-guide-benchmarks : ([Link](https://docs.jarvislabs.ai/blog/vllm-quantization-complete-guide-benchmarks))
+- vLLM Optimization Techniques: 5 Practical Methods to Improve Performance : ([Link](https://docs.jarvislabs.ai/blog/vllm-optimization-techniques))
 
   
 ### My Blogs ([NeuroBits](https://substack.com/@jaydevtonde))
