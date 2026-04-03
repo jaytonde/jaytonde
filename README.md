@@ -21,16 +21,17 @@
 - NeurIPS 2024 - Predict New Medicines with BELKA - **231th / 1336 (Top 12\%)**  ([Kaggle](https://www.kaggle.com/competitions/leash-BELKA))  [APR 2024]
 - NeurIPS 2023 - Machine Unlearning - **164th / 1336 (Top 14\%)**  ([Kaggle](https://www.kaggle.com/competitions/neurips-2023-machine-unlearning))  [SEP 2023]
 
-### Achivements
-- Standing Ovation Award - January 2025 by Wolters Kluwer
-- Wolters Kluwer - Code Games 2023 Winner - First runner up
 
-### Blogs
+### LLM Inference
 - Quantization Aware Training and Post training quantization using unsloth ang torchAO : ([Link](https://www.e2enetworks.com/blog/train-4bit-llms-qat-unsloth))
 - Speculative Decoding in vLLM: Complete Guide to Faster LLM Inference : ([Link](https://docs.jarvislabs.ai/blog/speculative-decoding-vllm-faster-llm-inference))
+  - draft model,n-gram, suffix, mlp speculators, eagle techniques  
 - The Complete Guide to LLM Quantization with vLLM: Benchmarks & Best Practices : ([Link](https://docs.jarvislabs.ai/blog/vllm-quantization-complete-guide-benchmarks))
+  - AWQ, GPTQ, Marlin-AWQ, Marlin-AWQ, GGUF, BnB.
 - vLLM Optimization Techniques: 5 Practical Methods to Improve Performance (prefix caching, KV-cache quantization, CPU offloading-KV Cache, Disaggregated Prefill/Decode, Zero Reload Sleep Mode) : ([Link](https://docs.jarvislabs.ai/blog/vllm-optimization-techniques))
+  - Prefix caching, kv-cache quantization, CPU offloading, Disaggregated prefill/decode, zero reload sleep mode. 
 - Scaling LLM Inference: Data, Pipeline & Tensor Parallelism in vLLM : ([Link](https://docs.jarvislabs.ai/blog/scaling-llm-inference-dp-pp-tp))
+  - Tensor Parallelism, Data Parallelism, Pipeline Parallelism
 
   
 ### My Blogs ([NeuroBits](https://substack.com/@jaydevtonde))
@@ -46,6 +47,11 @@
 #### AI Agents
 - AI Agent Frameworks Quick View  ([Link](https://jaydevtonde.substack.com/p/ai-agents-frameworks?r=1tjy7m))
 - SHADE Arena : Evaluating Sabotage and Monitoring in AI Agnets. ([Link](https://jaydevtonde.substack.com/p/shade-arena-evaluating-disruption)).
+
+
+### Achivements
+- Standing Ovation Award - January 2025 by Wolters Kluwer
+- Wolters Kluwer - Code Games 2023 Winner - First runner up
   
 ### Major developements
 - Experiementation pipeline for image classification. Used to performe 50+ experiments in kaggle competiton named ISIC ([Link](https://github.com/jaytonde/Kaggle-ISIC-2024))
