@@ -28,7 +28,7 @@
   - draft model,n-gram, suffix, mlp speculators, eagle techniques  
 - The Complete Guide to LLM Quantization with vLLM: Benchmarks & Best Practices : ([Link](https://docs.jarvislabs.ai/blog/vllm-quantization-complete-guide-benchmarks))
   - AWQ, GPTQ, Marlin-AWQ, Marlin-AWQ, GGUF, BnB.
-- vLLM Optimization Techniques: 5 Practical Methods to Improve Performance (prefix caching, KV-cache quantization, CPU offloading-KV Cache, Disaggregated Prefill/Decode, Zero Reload Sleep Mode) : ([Link](https://docs.jarvislabs.ai/blog/vllm-optimization-techniques))
+- vLLM Optimization Techniques: 5 Practical Methods to Improve Performance : ([Link](https://docs.jarvislabs.ai/blog/vllm-optimization-techniques))
   - Prefix caching, kv-cache quantization, CPU offloading, Disaggregated prefill/decode, zero reload sleep mode. 
 - Scaling LLM Inference: Data, Pipeline & Tensor Parallelism in vLLM : ([Link](https://docs.jarvislabs.ai/blog/scaling-llm-inference-dp-pp-tp))
   - Tensor Parallelism, Data Parallelism, Pipeline Parallelism
