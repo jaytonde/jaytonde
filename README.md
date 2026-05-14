@@ -33,6 +33,9 @@
 - Scaling LLM Inference: Data, Pipeline & Tensor Parallelism in vLLM : ([Link](https://docs.jarvislabs.ai/blog/scaling-llm-inference-dp-pp-tp))
   - Tensor Parallelism, Data Parallelism, Pipeline Parallelism
 
+
+### Tokn : Developing my own LLM Server from scratch for learning the inference ([Link](https://github.com/jaytonde/Tokn))
+
   
 ### My Blogs ([NeuroBits](https://substack.com/@jaydevtonde))
 - Understanding Model Memory Calculations  ([Link](https://jaydevtonde.substack.com/p/understanding-model-memory-calculations))
