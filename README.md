@@ -34,7 +34,8 @@
   - Tensor Parallelism, Data Parallelism, Pipeline Parallelism
 
 
-### Tokn : Developing my own LLM Server from scratch for learning the inference ([Link](https://github.com/jaytonde/Tokn))
+### Tokn : LLM Inference server
+- Developing my own LLM Server from scratch for learning the inference ([Link](https://github.com/jaytonde/Tokn))
 
   
 ### My Blogs ([NeuroBits](https://substack.com/@jaydevtonde))
