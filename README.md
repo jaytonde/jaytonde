@@ -35,7 +35,7 @@
 
 
 ### Tokn : LLM Inference server
-- Developing my own LLM Server from scratch for learning the inference ([Link](https://github.com/jaytonde/Tokn))
+- Developing my own LLM Server from scratch for learning purpose ([Link](https://github.com/jaytonde/Tokn))
 
   
 ### My Blogs ([NeuroBits](https://substack.com/@jaydevtonde))
